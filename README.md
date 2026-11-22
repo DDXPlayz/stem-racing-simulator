@@ -9,6 +9,11 @@ probabilities and engineering insight.
 INPUT DATA → MATHEMATICAL MODEL → FULL RACE SIMULATION → MONTE CARLO → KPI ANALYSIS → ENGINEERING INSIGHT
 ```
 
+![stem-racing-simulator screenshot](docs/dashboard.jpg)
+
+*The dashboard. Every figure is tagged with where it came from — `MEASURED / TEAM INPUT`, `ASSUMPTION`, `MODEL PARAMETER`, `RANDOM / UNCERTAIN VARIABLE`, `STRATEGY CHOICE`, `CALCULATED VALUE`, `PREDICTED OUTPUT` — so no number on the page can be mistaken for a measured race result.*
+
+
 Reachable at `https://anantamracing.com/race-simulator/`. Like the carbon
 calculator, it is **intentionally unlinked** from the main site and carries
 `noindex, nofollow` until the model has been calibrated against real test data.
